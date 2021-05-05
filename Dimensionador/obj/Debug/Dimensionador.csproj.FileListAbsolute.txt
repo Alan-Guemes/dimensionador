@@ -1,0 +1,7 @@
+C:\Users\alang\Documents\Proyectos\Dimensionador\Dimensionador\bin\Debug\Dimensionador.exe.config
+C:\Users\alang\Documents\Proyectos\Dimensionador\Dimensionador\bin\Debug\Dimensionador.exe
+C:\Users\alang\Documents\Proyectos\Dimensionador\Dimensionador\bin\Debug\Dimensionador.pdb
+C:\Users\alang\Documents\Proyectos\Dimensionador\Dimensionador\obj\Debug\Dimensionador.csprojAssemblyReference.cache
+C:\Users\alang\Documents\Proyectos\Dimensionador\Dimensionador\obj\Debug\Dimensionador.csproj.CoreCompileInputs.cache
+C:\Users\alang\Documents\Proyectos\Dimensionador\Dimensionador\obj\Debug\Dimensionador.exe
+C:\Users\alang\Documents\Proyectos\Dimensionador\Dimensionador\obj\Debug\Dimensionador.pdb
